@@ -3,6 +3,11 @@ This is a list of nodes that I participate in
 
 NODE Active :
 
+Mainnet :
+* Newrl
+
+Testnet :
+
 New Blockchain
 * Wormholes
 * Transformer
