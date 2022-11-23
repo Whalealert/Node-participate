@@ -16,7 +16,7 @@ New Blockchain
 * Q blockchain
 
 Cosmos Network
-* Loyal
+* [Loyal](https://exp.nodeist.net/t-loyal/staking/loyalvaloper1v7uekypfe7ezl363z2ydh0hrdqcxtmvmu2r9qw)
 * [Sge Network](https://exp.nodeist.net/t-sge/staking/sgevaloper1aa4k72eupwy4v8hn3kqk82gt43s2z86rru242f)
 * Gitopia
 
