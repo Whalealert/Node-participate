@@ -14,6 +14,7 @@ New Blockchain
 * Dusk Network
 * MassaLabs
 * Q blockchain
+* Inery (waiting chain runing again)
 
 Cosmos Network
 * [Loyal](https://exp.nodeist.net/t-loyal/staking/loyalvaloper1v7uekypfe7ezl363z2ydh0hrdqcxtmvmu2r9qw)
