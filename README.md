@@ -5,6 +5,7 @@ NODE Active :
 
 Mainnet :
 * Newrl
+* [Mises Browser](https://portal.mises.site/validator/misesvaloper1vd5x6hkk0uvfxevrr0xrsxkvzn03cvpl0tumjt)
 
 Testnet :
 
