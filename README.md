@@ -24,7 +24,7 @@ Cosmos Network
 * [Loyal](https://exp.nodeist.net/t-loyal/staking/loyalvaloper1v7uekypfe7ezl363z2ydh0hrdqcxtmvmu2r9qw)
 * [Sge Network](https://exp.nodeist.net/t-sge/staking/sgevaloper1aa4k72eupwy4v8hn3kqk82gt43s2z86rru242f)
 * [Neutron](https://neutron.explorers.guru/validator/neutronvaloper1xuw3vsn86rhdvq564qjs8mn8d0p7mmdn0a4klh)
-
+* [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1yf0n6k74km9ztqktg6fwshvvg90k2e9wrlauh8)
 
 Node Ended :
 * Point network
