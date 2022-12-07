@@ -13,10 +13,9 @@ New Blockchain
 
 * [Wormholes](https://www.wormholesscan.com/#/AccountDetail/0xCAaa11f08d315F14d7b593535F9727dc2526cA7c)
 * [Transformer](https://explorer.tfsc.io/#/m/VerifierDetail?Address=1NjgWZCzaz22kKj6NLerYhotv5BUsS3mkZ&Validators=whalealertid&Staked=5000&Delegated=5000&StakingTotal=10000&Active=1&Online=Online)
-* Dusk Network
-* MassaLabs
-* Q blockchain
-* Inery
+* [Dusk Network](https://explorer.dusk.network/)
+* [MassaLabs](https://massa.net/testnet/A1aZaWZhkrV55i2976i9VJ3VpMf6iABE4RyWjJ53q1jG4eLucTY)
+* [Inery](https://explorer.inery.io/master-nodes/account_info/?name=dwentzart)
 * [Aleo](https://www.aleo123.io/address/aleo1fdewm8xk55044wvks8w3x43x905pq6jwueecs6fvv9725c3avsxqy3ptur)
 
 
