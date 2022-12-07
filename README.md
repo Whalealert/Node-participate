@@ -4,7 +4,7 @@ This is a list of nodes that I participate in
 NODE Active :
 
 Mainnet :
-* Newrl
+* [Newrl](https://www.newrlscan.io/node-map)
 * [Mises Browser](https://portal.mises.site/validator/misesvaloper1vd5x6hkk0uvfxevrr0xrsxkvzn03cvpl0tumjt)
 
 Testnet :
