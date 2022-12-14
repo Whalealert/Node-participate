@@ -25,7 +25,7 @@ Cosmos Network
 * [Neutron](https://neutron.explorers.guru/validator/neutronvaloper1xuw3vsn86rhdvq564qjs8mn8d0p7mmdn0a4klh)
 * [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1yf0n6k74km9ztqktg6fwshvvg90k2e9wrlauh8)
 * [Humans](https://explorer.humans.zone/humans-testnet/staking/humanvaloper1v7uekypfe7ezl363z2ydh0hrdqcxtmvm458cu5)
-
+* [Nolus](https://explorer-rila.nolus.io/nolus-rila/staking/nolusvaloper1v7uekypfe7ezl363z2ydh0hrdqcxtmvm5gkrdk)
 
 Node Ended :
 * Point network
