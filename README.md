@@ -6,6 +6,7 @@ NODE Active :
 Mainnet :
 * [Newrl](https://www.newrlscan.io/node-map)
 * [Mises Browser](https://portal.mises.site/validator/misesvaloper1vd5x6hkk0uvfxevrr0xrsxkvzn03cvpl0tumjt)
+* [Planq](https://ping.pub/planq/staking/plqvaloper1wqwngychuh8fk3ec9whgy6khvyr9r649glmsez)
 
 Testnet :
 
