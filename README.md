@@ -19,6 +19,8 @@ New Blockchain
 * [Inery](https://explorer.inery.io/master-nodes/account_info/?name=dwentzart)
 * [Aleo](https://www.aleo123.io/address/aleo1fdewm8xk55044wvks8w3x43x905pq6jwueecs6fvv9725c3avsxqy3ptur)
 * Q Novel
+* [Taikoo](https://l2explorer.a1.taiko.xyz/address/0xCBACd1d67d00b412e60cBD4b6c05d99F1cC62d7c)
+
 
 Cosmos Network
 * [Loyal](https://exp.nodeist.net/t-loyal/staking/loyalvaloper1v7uekypfe7ezl363z2ydh0hrdqcxtmvmu2r9qw)
